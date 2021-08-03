@@ -1,5 +1,5 @@
 # Calculating-probabilities-of-winning-in-the-lottery
-In this project I defined several functions to calculate probabilities of winning in the lottery, in particular:
+In this project I defined several functions to calculate probabilities of winning in the 6/49 lottery, in particular:
 
 * `one_ticket_probability()` — calculates the probability of winning the big prize with a single ticket.
 * `check_historical_occurrence()` — checks whether a certain combination has occurred in the Canada lottery data set.
